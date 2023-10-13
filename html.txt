@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Internships at Vault of Codes</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Vault of Codes Internship Program</h1>
+        <p>Unlock Your Potential</p>
+    </header>
+    <section class="internship-cards">
+        <div class="internship-card">
+            <img src="internship1.jpg" alt="Internship 1">
+            <h2>Web Development Intern</h2>
+            <p>Gain hands-on experience in web development and design.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="internship-card">
+            <img src="internship2.jpg" alt="Internship 2">
+            <h2>Data Science Intern</h2>
+            <p>Explore data analysis and machine learning techniques.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="internship-card">
+            <img src="internship3.jpg" alt="Internship 3">
+            <h2>Marketing Intern</h2>
+            <p>Develop marketing strategies and work on real campaigns.</p>
+            <a href="#">Learn More</a>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 Vault of Codes. All rights reserved.</p>
+    </footer>
+</body>
+</html>
